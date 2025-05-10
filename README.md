@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=manh-td&label=Profile%20Views&color=blue&style=flat)  
 [![GitHub followers](https://img.shields.io/github/followers/manhtdd?style=social)](https://github.com/manh-td?tab=followers)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manh-tran-0a5a52308)  
-[![Gmail](https://img.shields.io/badge/Email-manhtd120901@gmail.com-red?style=flat&logo=gmail)](mailto:dmtran120901@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-dmtran120901@gmail.com-red?style=flat&logo=gmail)](mailto:dmtran120901@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat&logo=github)](https://github.com/manh-td)  
 
 ---
