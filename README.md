@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Duc Manh TRAN | @manhtdd  
+# 👋 Hi, I’m Duc Manh TRAN | @manh-td  
 
-![Profile Views](https://komarev.com/ghpvc/?username=manhtdd&label=Profile%20Views&color=blue&style=flat)  
-[![GitHub followers](https://img.shields.io/github/followers/manhtdd?style=social)](https://github.com/manhtdd?tab=followers)  
+![Profile Views](https://komarev.com/ghpvc/?username=manh-td&label=Profile%20Views&color=blue&style=flat)  
+[![GitHub followers](https://img.shields.io/github/followers/manhtdd?style=social)](https://github.com/manh-td?tab=followers)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manh-tran-0a5a52308)  
-[![Gmail](https://img.shields.io/badge/Email-manhtd120901@gmail.com-red?style=flat&logo=gmail)](mailto:manh.td120901@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat&logo=github)](https://github.com/manhtdd)  
+[![Gmail](https://img.shields.io/badge/Email-manhtd120901@gmail.com-red?style=flat&logo=gmail)](mailto:dmtran120901@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat&logo=github)](https://github.com/manh-td)  
 
 ---
 
@@ -20,20 +20,20 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <a href="https://github.com/manhtdd">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manhtdd&show_icons=true&theme=tokyonight&count_private=true&hide=issues" />
+  <a href="https://github.com/manh-td">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manh-td&show_icons=true&theme=tokyonight&count_private=true&hide=issues" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/manhtdd">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manhtdd&theme=tokyonight" />
+  <a href="https://github.com/manh-td">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manh-td&theme=tokyonight" />
   </a>
 </p>  
 
 <p align="center">
-  <a href="https://github.com/manhtdd">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhtdd&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/manh-td">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manh-td&layout=compact&theme=tokyonight" />
   </a>
 </p>  
 
@@ -71,8 +71,6 @@
 
 ## 📬 Connect With Me  
 
-📩 **Email:** [manh.td120901@gmail.com](mailto:manh.td120901@gmail.com)  
+📩 **Email:** [dmtran120901@gmail.com](mailto:dmtran120901@gmail.com)  
 👔 **LinkedIn:** [linkedin.com/in/manh-tran-0a5a52308](https://www.linkedin.com/in/manh-tran-0a5a52308)  
-🌐 **Portfolio/GitHub:** [github.com/manhtdd](https://github.com/manhtdd)  
-
-💡 _"Code smart, automate everything, and let AI do the heavy lifting!"_ 🚀  
+🌐 **Portfolio/GitHub:** [github.com/manh-td](https://github.com/manh-td)  
