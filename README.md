@@ -60,15 +60,6 @@
 
 ---
 
-## 🚀 Side Project Requests  
-
-### 1. Conference Date Tracker  
-### 2. Conference/Journal Papers Crawler   
-### 3. Scholar Email Crawler  
-### 4. DOM vs. Other Web Technologies  
-
----
-
 ## 📬 Connect With Me  
 
 📩 **Email:** [dmtran120901@gmail.com](mailto:dmtran120901@gmail.com)  
