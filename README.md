@@ -21,19 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/manh-td">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manh-td&show_icons=true&theme=tokyonight&count_private=true&hide=issues" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/manh-td">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manh-td&theme=tokyonight" />
-  </a>
-</p>  
-
-<p align="center">
-  <a href="https://github.com/manh-td">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manh-td&layout=compact&theme=tokyonight" />
   </a>
 </p>  
 
@@ -68,6 +56,8 @@
 - [Repository Mirroring](https://github.com/manh-td/mirroring)
 - [Calculating Metrics for Repositories](https://github.com/manh-td/project-metrics)
 - [Sonar Playground](https://github.com/manh-td/Auto-Sonar)
+
+---
 
 ## 📬 Connect With Me  
 
