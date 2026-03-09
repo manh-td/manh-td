@@ -60,6 +60,15 @@
 
 ---
 
+## 🛠️ Research Tools
+- [LM-CC](https://github.com/manh-td/LM-CC)
+- [Recursive Language Model](https://github.com/manh-td/rlm)
+- [CodeQL Playground](https://github.com/Bonkaaa/codeql_docker)
+- [Language Server Protocol](https://github.com/manh-td/LSP)
+- [Repository Mirroring](https://github.com/manh-td/mirroring)
+- [Calculating Metrics for Repositories](https://github.com/manh-td/project-metrics)
+- [Sonar Playground](https://github.com/manh-td/Auto-Sonar)
+
 ## 📬 Connect With Me  
 
 📩 **Email:** [dmtran120901@gmail.com](mailto:dmtran120901@gmail.com)  
