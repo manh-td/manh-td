@@ -56,6 +56,7 @@
 - [Repository Mirroring](https://github.com/manh-td/mirroring)
 - [Calculating Metrics for Repositories](https://github.com/manh-td/project-metrics)
 - [Sonar Playground](https://github.com/manh-td/Auto-Sonar)
+- [Profiling Demo](https://github.com/manh-td/Profiling-Demo)
 
 ---
 
