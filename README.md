@@ -58,6 +58,9 @@
 - [Sonar Playground](https://github.com/manh-td/Auto-Sonar)
 - [Profiling Demo](https://github.com/manh-td/Profiling-Demo)
 - [LLM Demo](https://github.com/manh-td/LLM-Inference)
+- [Code Property Graph (Joern)](https://github.com/manh-td/code-property-graph)
+- [Security Score](https://github.com/manh-td/security-score)
+- [Semgrep Demo](https://github.com/manh-td/Semgrep)
 
 ---
 
